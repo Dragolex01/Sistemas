@@ -1,0 +1,152 @@
+ÍNDICE
+
+¿Qué es la computación en la nube?
+Ejemplos
+Ventajas
+Desventajas
+
+
+OpenStack
+
+¿Qué es?
+¿Qué es API?
+Características de API
+
+
+OpenShift
+
+¿Qué es?
+¿Qué es GIT
+Características de GIT
+
+
+
+
+
+DOCUMENTACIÓN
+
+
+¿Qué es la computación en la nube?
+
+
+La computación en la nube, o también llamada “la nube” es la posibilidad de realizar unos servicios a través de Internet teniendo los archivos (fotografías, documentos, copias de seguridad...) guardada en Internet. Esto permite que puedas acceder a ellos donde y cuando quieras siempre que tengas una conexión a Internet.
+
+Normalmente hay una nube gratuita, pero también existen nubes de pago que permiten tener una mejor seguridad, mayor capacidad de almacenamiento online u otros servicios específicos.
+
+Ejemplos
+
+Algunas de las nubes más conocidas y utilizadas son Google Drive, Dropbox, OneDrive, OpenDrive...
+
+Ventajas
+
+-Uso tanto para empresa como privado
+-Tiene un bajo costo
+-No hay que preocuparse por el espacio de almacenamiento
+-Acceso a la información donde y cuando quieras siempre que se tenga conexión a Internet
+-Podéis acceder varias personas a un mismo documento desde lugar distintos al mismo tiempo.
+-No hay posibilidad de que se pierdan datos (USB falla…)
+
+
+Desventajas
+
+-Necesitan conexión a Internet en todo momento
+-Si el servidor falla no puedes acceder a tus datos
+-Si consiguen entrar a tu cuenta, pueden acceder a todos tus datos
+
+
+
+
+
+OpenStack
+
+
+¿Qué es?
+
+
+
+OpenStack es un sistema operativo en la nube que controla grandes grupos de recursos, almacenamiento y redes en un centro de datos a través de API.
+Su misión es proveer solución flexible tanto para nubes públicas como privadas., sean estas de cualquier tamaño y para esto tienen que cumplir dos requisitos: Las nubes sean simples de implementar y masivamente escalables.
+
+Para que se cumpla esto OpenStack está dividido en diferentes componentes que trabajan en conjunto. Esto se debe a la integración de interfaces de programación de aplicaciones(API).
+
+Gracias a estas APIS los servicios pueden comunicarse entre ellos  y además se posibilita que un servicio sea reemplazado por otro de similares características siempre que se respete la forma de comunicación. 
+OpenStack  es extensible y se ajusta a las necesidades de quien desee implementarlo.
+
+
+
+
+
+
+¿Qué es API?
+
+
+API (Interfaz de programación de aplicaciones) es un conjunto de definiciones y protocolos que se utilizan para desarrollar el software de las aplicaciones. Permiten que sus productos y servicios se comuniquen con otros sin necesidad de saber cómo están implementados.
+
+
+
+Características de API
+
+
+Uno de los principales propósitos de una API consiste en proporcionar un conjunto de funciones de uso general, por ejemplo para dibujar iconos o ventanas en la pantalla. Con esto los programadores se benefician de las ventajas de API, evitándose el trabajo de programar todo desde el principio.
+
+Por ejemplo escribir “Hola mundo” sobre la pantalla :
+
+1.Todo desde el principio.
+
+Trazar sobre papel la forma de las letras y espacios, crear una matriz de cuadros negros y blancos que se asemeje a la sucesión de letras, escribir la información de la matriz en la memoria intermedia y mediante la instrucción adecuada hacer  que la tarjeta gráfica muestre la información sobre pantalla .
+
+2.Por medio del sistema operativo para hacer parte del trabajo
+
+Cargar una fuente tipografica proporcionado por el sistema operativo, hacer que borre la pantalla y que el sistema operativo dibuje el texto “hola mundo” usando la fuente cargada.
+
+La primera opción no resulta nada práctico para representar una gran  cantidad de información.y el segundo paso hace la tarea más sencilla eliminando pasos innecesarios.
+
+
+
+
+
+
+
+
+
+
+
+
+
+OpenShift
+
+
+
+¿Qué es?
+
+Es una plataforma de contenedores de Kubernetes empresarial con operaciones automatizadas integrales para gestionar implementaciones de nube híbrida y multicloud.
+Red Hat OpenShift está optimizado para mejorar la productividad de los desarrolladores y promover la innovación.
+OpenShift se creó con el propósito de tener un puente entre los equipos de desarrollo y los de operaciones , reduciendo los tiempos de espera desde que nace la idea de una aplicación hasta que se ve puesta en producción.
+
+
+
+
+
+¿Qué es GIT?
+
+
+GIT es una herramienta diseñada por Linus Torvalds que realiza una función del control de versiones de código de forma distribuida.
+Su propósito es llevar registros de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan  sobre archivos compartidos.
+
+Git nos proporciona las herramientas para desarrollar un software o página que implique código en equipo de manera inteligente y rápida .
+
+
+
+
+Características de GIT
+
+
+-Es muy potente
+-No depende de un repositorio central
+-Es software libre
+-Es muy rápida
+-Sistema de trabajo con ramas
+-Podemos mantener un historial completo de versiones
+-Podemos desplazarnos de manera muy ágil debido a que podemos movernos por todas las revisiones de código
+
+
